@@ -1,0 +1,2 @@
+MONGODB_SERVER=mongodb://localhost:27017/admin
+SHOP_MONGODB_SERVER=mongodb://localhost:27017/admin
